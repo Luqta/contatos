@@ -4,7 +4,8 @@
 
 <p>This app generate 5(or any amount that you put in code) random people in a FlatList like the image bellow.</p>
 
-![PeoplePage](/assets/images/peoplePage.jpeg)
+<img src="/assets/images/peoplePage.jpeg" alt="peoplePage"
+	title="PeopleDetailPage" width="300" height="750" />
 
 <p>On click in a spefic person more data about that person will show, those are:</p>
 
@@ -19,8 +20,6 @@
 
 <p>The detailed person page is the image bellow:</p> 
 
-![PeopleDetailPage](/assets/images/peopleDetailPage.jpeg)
-
 <img src="/assets/images/peopleDetailPage.jpeg" alt="PeopleDetailPage"
 	title="PeopleDetailPage" width="300" height="750" />
 	
@@ -29,7 +28,8 @@
 
 <p>Esse app gera 5(ou qualquer quantidade que você inserir no código) pessoas aleatórios em uma FlatList como na imagem abaixo.</p>
 
-![PeoplePage](/assets/images/peoplePage.jpeg)
+<img src="/assets/images/peoplePage.jpeg" alt="peoplePage"
+	title="PeopleDetailPage" width="300" height="750" />
 
 <p>Ao clicar em alguma pessoa, mais informações sobre aquela pessoa irão aparecer, elas são:</p>
 
@@ -44,4 +44,5 @@
 
 <p>A página de detalhes dos contatos é como na imagem abaixo:</p> 
 
-![PeopleDetailPage](/assets/images/peopleDetailPage.jpeg)
+<img src="/assets/images/peopleDetailPage.jpeg" alt="PeopleDetailPage"
+	title="PeopleDetailPage" width="300" height="750" />
