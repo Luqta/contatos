@@ -20,7 +20,7 @@ export default class PeoplePage extends React.Component{
 		this.setState({ loading: true});
 		setTimeout(() => {
 			axios
-			.get('https://randomuser.me/api/?nat=br&results=150')
+			.get('https://randomuser.me/api/?nat=br&results=20')
 			.then(response => {
 				const { results } = response.data
 				this.setState({
