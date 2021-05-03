@@ -22,7 +22,7 @@
 ![PeopleDetailPage](/assets/images/peopleDetailPage.jpeg)
 
 <img src="/assets/images/peopleDetailPage.jpeg" alt="PeopleDetailPage"
-	title="PeopleDetailPage" width="200" height="500" />
+	title="PeopleDetailPage" width="300" height="750" />
 	
 <h1>Português</h1>
 <h2>Aplicativo que mostra informações de seus contatos</h2>
